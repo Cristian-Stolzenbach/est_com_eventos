@@ -1,3 +1,5 @@
+// alertas
+
 import { Alert } from "react-bootstrap"
 
 function Alerta(props) {
